@@ -3,7 +3,7 @@
 
 Keeps track of basketball scores for two teams.
 
-Pre-requisites
+### Pre-requisites
 --------------
 
 - Android SDK v30
